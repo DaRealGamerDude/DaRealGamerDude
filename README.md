@@ -9,7 +9,7 @@
 ---
 
 ### Reach Me
-**Email:** [anand.007bhavit@gmail.com](mailto:anand.007bhavit@gmail.com)  
+**Email:** [bhavitanand.dev@gmail.com](mailto:bhavitanand.dev@gmail.com)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavit-anand/)
 
