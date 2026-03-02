@@ -25,14 +25,16 @@ I treat cybersecurity like an engineering discipline — observe, investigate, d
 ## Cybersecurity Toolkit
 
 <p align="left">
+  <!-- Existing Devicon ones -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/wireshark" width="40"/>
-  <img src="https://cdn.simpleicons.org/nmap" width="40"/>
-  <img src="https://cdn.simpleicons.org/splunk" width="40"/>
-  <img src="https://cdn.simpleicons.org/mitre" width="40"/>
+
+  <!-- Hotlinked Logos -->
+  <img src="https://static.vecteezy.com/system/resources/previews/026/763/723/non_2x/nmap-network-mapper-concept-illustration-free-vector.jpg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" width="40"/>
+  <img src="https://logowik.com/content/uploads/images/mitre1433.logowik.com.webp" width="40"/>
 </p>
 
 **Focus Areas**
