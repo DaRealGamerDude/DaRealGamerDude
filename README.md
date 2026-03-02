@@ -63,7 +63,6 @@ These support scripting, automation, and understanding attack surfaces.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaRealGamerDude&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400&v=1" />
   <img src="https://streak-stats.demolab.com?user=DaRealGamerDude&theme=tokyonight&hide_border=true&v=1" />
 </p>
 ---
