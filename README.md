@@ -1,4 +1,3 @@
----
 <!-- Typing Animation -->
 
 <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
