@@ -14,7 +14,11 @@ I treat cybersecurity like an engineering discipline — observe, investigate, d
 ## Live Training Activity
 
 ### TryHackMe Progress
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5663797.png)](https://tryhackme.com/p/5663797)
+<p align="center">
+  <a href="https://tryhackme.com/p/bhavit">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/bhavit.png" alt="TryHackMe Badge" />
+  </a>
+</p>
 
 ---
 
