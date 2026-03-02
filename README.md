@@ -29,10 +29,10 @@ I treat cybersecurity like an engineering discipline — observe, investigate, d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nmap.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/splunk.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mitre.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark" width="40"/>
+  <img src="https://cdn.simpleicons.org/nmap" width="40"/>
+  <img src="https://cdn.simpleicons.org/splunk" width="40"/>
+  <img src="https://cdn.simpleicons.org/mitre" width="40"/>
 </p>
 
 **Focus Areas**
