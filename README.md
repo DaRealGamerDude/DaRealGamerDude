@@ -14,7 +14,7 @@ I treat cybersecurity like an engineering discipline — observe, investigate, d
 ## Live Training Activity
 
 ### TryHackMe Progress
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5663797" style="border:none;"></iframe>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5663797.png)](https://tryhackme.com/p/5663797)
 
 ---
 
