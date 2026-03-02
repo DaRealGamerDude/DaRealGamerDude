@@ -1,4 +1,4 @@
-<!-- Typing Animation -->
+<img width="762" height="313" alt="image" src="https://github.com/user-attachments/assets/1d3ecd42-6a25-4084-a796-a2487331a84a" /><!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Bhavit+Anand;Blue+Team+%7C+SOC+Analyst+in+Training;Digital+Forensics+%26+Incident+Response;Learning+Through+Hands-On+Labs+%26+CTFs)](https://git.io/typing-svg)
 
 ---
@@ -63,10 +63,9 @@ These support scripting, automation, and understanding attack surfaces.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaRealGamerDude&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-  <img src="https://streak-stats.demolab.com?user=DaRealGamerDude&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DaRealGamerDude&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400&v=1" />
+  <img src="https://streak-stats.demolab.com?user=DaRealGamerDude&theme=tokyonight&hide_border=true&v=1" />
 </p>
-
 ---
 
 ## Projects & Write-ups
