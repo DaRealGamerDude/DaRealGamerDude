@@ -1,9 +1,9 @@
 ---
 <!-- Typing Animation -->
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Bhavit+Anand;Blue+Team+%7C+SOC+Analyst+in+Training;Digital+Forensics+%26+Incident+Response;Learning+Through+Hands-On+Labs+%26+CTFs)](https://git.io/typing-svg)
+<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Bhavit+Anand;Blue+Team+%7C+SOC+Analyst+in+Training;Digital+Forensics+%26+Incident+Response;Learning+Through+Hands-On+Labs+%26+CTFs" />
+</p>
 
 ---
 
