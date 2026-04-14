@@ -1,11 +1,7 @@
 <!-- Typing Animation -->
 
 <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <img width="2097" height="605" alt="image" src="https://github.com/user-attachments/assets/d39accf2-e459-4942-a338-3e78c66940f9" />
-
-
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Hey!+This+Is+Bhavit!+👋;Blue+Team+%7C+SOC+Analyst+in+Training;Digital+Forensics+%26+Incident+Response;Learning+Through+Hands-On+Labs+%26+CTFs" />
 </p>
 
 ---
@@ -22,7 +18,8 @@ I treat cybersecurity like an engineering discipline — observe, investigate, d
 
 ### TryHackMe Progress
 <p align="center">
-  <img width="2559" height="600" alt="image" src="https://github.com/user-attachments/assets/76da6515-d3bd-474f-9604-c8e248cd748a" />
+ <img width="2097" height="605" alt="image" src="https://github.com/user-attachments/assets/44d6a086-de3b-45fc-b028-e23c93606d34" />
+
 
   <!-- <a href="https://tryhackme.com/p/bhavit">
     <img src="https://tryhackme-badges.s3.amazonaws.com/bhavit.png?v=1" alt="TryHackMe Badge" />
