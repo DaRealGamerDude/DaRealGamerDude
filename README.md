@@ -18,7 +18,7 @@ I treat cybersecurity like an engineering discipline — observe, investigate, d
 
 ### TryHackMe Progress
 <p align="center">
- <img width="2097" height="605" alt="image" src="https://github.com/user-attachments/assets/44d6a086-de3b-45fc-b028-e23c93606d34" />
+<img width="1748" height="511" alt="image" src="https://github.com/user-attachments/assets/aad2feb3-bd0a-40aa-a91f-c945d869ddb5" />
 
 
   <!-- <a href="https://tryhackme.com/p/bhavit">
